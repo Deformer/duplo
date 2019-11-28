@@ -14,7 +14,7 @@ import (
 const (
 	// ImageScale is the width and height to which images are resized before they
 	// are being processed.
-	ImageScale = 128
+	ImageScale = 256
 )
 
 var (
